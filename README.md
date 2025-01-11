@@ -5,20 +5,7 @@ This project demonstrates the implementation and performance comparison of three
 2. **Multithreaded Web Server**  
 3. **Multithreaded Web Server with Thread Pool (Pool Size: 100)**  
 
-By simulating **1 million requests**, we evaluate the throughput and response times of each server type, highlighting the performance benefits of multithreading and thread pooling.
-
----
-
-## Table of Contents
-- [Overview](#overview)
-- [Concepts](#concepts)
-  - [Single-threaded Web Server](#single-threaded-web-server)
-  - [Multithreaded Web Server](#multithreaded-web-server)
-  - [Multithreaded Web Server with Thread Pool](#multithreaded-web-server-with-thread-pool)
-- [Implementation Details](#implementation-details)
-- [Performance Comparison](#performance-comparison)
-- [How to Run](#how-to-run)
-- [Conclusion](#conclusion)
+By simulating **1 million requests** using jmeter, we evaluate the throughput and response times of each server type, highlighting the performance benefits of multithreading and thread pooling.
 
 ---
 
